@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
-<h3 align="center">Full Stack Developer & Cloud Architect from Sri Lanka 🌟</h3>
+<h1 align="center">👋 Hello, I'm Damith Akalanka</h1>
+<h3 align="center">Full Web Developer And Mobile Application Developer🌟</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
