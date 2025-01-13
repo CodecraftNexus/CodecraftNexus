@@ -1,69 +1,65 @@
 <h1 align="center">👋 Hello, I'm Damith Akalanka</h1>
-<h3 align="center">Full Web Developer And Mobile Application Developer🌟</h3>
+<h3 align="center">Software Developer from Sri Lanka 🌟</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodecraftNexus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=damithakalanka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
 
 ```javascript
-const developer = {
+const DamithAkalanka = {
     name: "Damith Akalanka",
-    role: "Full Stack Web Developer",
-    location: "Sri Lanka",
+    location: "Sri Lanka 🇱🇰",
+    role: "Software Developer",
+    interests: ["Web Development", "Mobile Development", "New Technologies"],
+    currentFocus: "Building innovative solutions with modern technologies",
+    lifePhilosophy: "Convert ideas into reality through code 💡"
 };
 ```
 
 ### 🛠️ Tech Stack
 
-**Core Languages & Frameworks:**
-- Python | TypeScript | JavaScript | C++
-- React.js | Node.js | FastAPI
-- HTML5 | CSS3
+**Languages & Technologies:**
+- JavaScript | HTML | CSS
+- React.js | Node.js
+- Java | Python
+- Mobile Development
+- Database Management
 
-**Cloud & DevOps:**
-- Docker | Kubernetes
-- AWS | Azure
-- CI/CD | Git
-
-**Tools & Technologies:**
-- Linux | VSCode
-- MongoDB | PostgreSQL
-- Redis | Elasticsearch
+**Tools & Platforms:**
+- Git | GitHub
+- VS Code
+- Development Tools
+- Cloud Platforms
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=damithakalanka&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ### 🌱 Currently Learning
 
-- Advanced System Design Patterns
-- Cloud-Native Architecture
-- AI/ML Implementation
-- Scalable Microservices
+- Advanced Web Technologies
+- Mobile App Development
+- Cloud Computing
+- Software Architecture
 
-### 👨‍💼 Experience
+### 🎯 Goals
 
-- Full Stack Development
-- Cloud Architecture
-- AI Implementation
-- System Design
-- DevOps & Automation
+- Contribute to Open Source Projects
+- Create Innovative Solutions
+- Share Knowledge with Community
+- Continuous Learning and Growth
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/damithakalanka">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/damithakalanka">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -71,17 +67,6 @@ const developer = {
   </a>
 </p>
 
-### 🎯 Goals for 2025
-
-- [ ] Contribute to major open-source projects
-- [ ] Launch educational content for developers
-- [ ] Expand community involvement
-- [ ] Master cloud-native technologies
-
-### 💡 My Life Philosophy
-
-> Learning something new every day 🚀
-
 ---
 
-<p align="center">💼 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!</p>
+<p align="center">💼 Open to collaborating on interesting projects and innovative ideas!</p>
