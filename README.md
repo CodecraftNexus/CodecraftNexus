@@ -57,16 +57,16 @@ const DamithAkalanka = {
 
 <p align="center">
   <a href="https://linkedin.com/in/damithakalanka">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/damithakalanka">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/ Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/ Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
     <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Whatsapp-white?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp" />
+    <img src="https://img.shields.io/badge/ Whatsapp-white?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp" />
   </a>
 </p>
 
