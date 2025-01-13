@@ -65,7 +65,7 @@ const DamithAkalanka = {
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="mailto:your.email@example.com">
+    <a href="http://wa.me/94767014687">
     <img src="https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=whatsapp&logoColor=black" alt="Whatsapp" />
   </a>
 </p>
