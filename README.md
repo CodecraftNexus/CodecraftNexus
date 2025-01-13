@@ -9,15 +9,9 @@
 
 ```javascript
 const developer = {
-    name: "[Your Name]",
-    role: "Full Stack Developer",
+    name: "Damith Akalanka",
+    role: "Full Stack Web Developer",
     location: "Sri Lanka",
-    education: "MBA & IT Specialist",
-    currentFocus: ["Cloud Architecture", "System Design", "AI/ML"],
-    communities: {
-        founder: ["Tech Community Name"],
-        member: ["Sri Lankan Tech Community", "OpenAI Developers"]
-    }
 };
 ```
 
